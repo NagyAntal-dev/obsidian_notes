@@ -1,0 +1,2 @@
+## [[Nominális]]
+## [[Ordinális]]

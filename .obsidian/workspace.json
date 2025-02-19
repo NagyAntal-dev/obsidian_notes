@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "89bdf56bcb26dd68",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ff9e3c194095f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94bd496bf9063bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adatok átkódolása.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adatok átkódolása"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fe3a51f22494e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "354937971e7e303c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d973946d030416",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccb5224e01bc24df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4cd4d07c76a1fe2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a8b5508e5b7f3c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "1485bb8e91d5cd96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d3a53d7dd50f61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "32be383714f24782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6311a61e968251b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0e4126dc0e284cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e91bfce85f4393ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "94bd496bf9063bd8",
+  "lastOpenFiles": [
+    "Adatelőkészítés.md",
+    "Adatdiszkretizáció.md",
+    "02 - Areas/Nem felügyelt gépi tanulás.md",
+    "Adatredukció.md",
+    "Adatok átkódolása.md",
+    "Adattranszformáció.md",
+    "Adatintegráció.md",
+    "Adattisztítás.md",
+    "05 - Notes/Alapok.md",
+    "05 - Notes/Adatok típusai.md",
+    "05 - Notes/Kategorikus vagy kvalitatív.md",
+    "05 - Notes/Ordinális.md",
+    "05 - Notes/Nominális.md",
+    "000 Index.md",
+    "05 - Notes/Numerikus vagy Kvantitatív.md",
+    "05 - Notes",
+    "05 - Notes/Diszkrét.md",
+    "05 - Notes/Folytonos.md",
+    "Numerikus vagy Kvantitív.md",
+    "02 - Areas/Haladó Adattárház.md",
+    "03 - Resources/UnsupervisedLearning/00_alapok.pdf",
+    "03 - Resources/UnsupervisedLearning",
+    "03 - Resources/Új mappa",
+    "Triggerek.md",
+    "Jobs.md",
+    "Loose Coupling.md",
+    "Templates/Note Template.md",
+    "Templates/Project Template.md",
+    "Templates/Area Template.md",
+    "T.md",
+    "03 - Resources/HaladóAdatbázis/jegyzet_haladó_AB_Vassányi_István_2024.pdf",
+    "03 - Resources/HaladóAdatbázis",
+    "03 - Resources/Books",
+    "03 - Resources/Banners",
+    "Templates/cornell.css",
+    "04 - Archives"
+  ]
+}

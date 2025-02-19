@@ -1,0 +1,2 @@
+## [[Folytonos]]
+## [[Diszkrét]]
