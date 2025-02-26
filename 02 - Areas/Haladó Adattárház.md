@@ -1,38 +1,27 @@
 ---
 title: Haladó Adattárház
-created: 2025-02-12
-tags:
-  - Area
-  - Kurzus
-  - Egyetem
-code: VEMIVIM246H/2024/25/2
+created: 2025-02-21
+tags: [Area]
 ---
-# Haladó Adatbáziskezelő-rendszerek
+
+# Haladó Adattárház
 
 ## Áttekintés
-- **Lényege:** Haladó szintű adatbázis-kezelésre jellemző problémaköreinek, mint pl. adatbiztonság, adatmegosztás, stb., bemutatása esettanulmányokon keresztül.
-- **Számonkérés:** 5 kisebb tesztet kell megírni. Egy beadandó lesz, egyedül vagy ketten lehet majd csinálni. Kettő számonkérés 50% - 50% ebből lesz a jegy.
-
+- **Lényege:** Adattárházakkal kapcsolatos alapfogalmak megismertetése, az adattárházak tervezési, megvalósítási és kiaknázási technológiáinak áttekintése, illetve ezek demonstrálása egy kiválasztott modern technológia segítségével.
+- **Számonkérés:**  Az értékelésben 50%-ot számítanak a tesztek, 50%-ot az önálló feladat bemutatása.
 ## Jegyzetek
-- [[Triggerek]]
-- [[Jobs]]
-- [[Loose Coupling]]
-
+- 
 ## Órák és Témák
-| Téma                                                     | Dátum                          | Terem  |
-| -------------------------------------------------------- | ------------------------------ | ------ |
-| Triggerek, jobok, laza csatolás                          | Febr. 15. szombat, 15:15–18:30 | PC0    |
-| Replikáció                                               | Febr. 22. szombat, 8:00–11:15  | Online |
-| Gráf adatbázisok                                         | Márc. 8. szombat, 14:15–17:45  | PC0    |
-| Felhő adatbázis technológiák,<br>GCP Postgres, Firestore | Márc. 22. szombat, 13:30–16:45 | Online |
-| Firestore tranzakciók, BigQuery                          | Márc. 29. szombat, 8:45–12:15  | Online |
-| Hallgatói projekt-előadások                              | ápr. 26. szombat, 9:45–13:00   | Online |
+
+| Téma                                                                                             | Dátum                                           |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Adattárházak szerkezete, ETL, SSIS, egyszerű és komplex adatút                                   | **Febr. 21. péntek**, 9:45–13:00<br>ONLINE      |
+| OLAP-kockák tervezése és feltárása (MS Analysis Services, Excel és PowerBI): 13:30–16:45<br>GCP Data fusion vs. MS Power query, mint ETL technológiák: 17:00–18:30 | **Már. 7. péntek**, 13:30–18:30<br>ONLINE       |
+| Hallgatói projekt-előadások                                                                     | **Április 26. SZOMBAT**, 8:00–9:30<br>ONLINE    |
 
 ## Projectek
 - 
-
 ## Források
-- [[jegyzet_haladó_AB_Vassányi_István_2024.pdf|Advanced database management systems]]
-
+- [[DW_jegyzet_MSc_2024_1_rész.pdf|Haladó adattárház-technológiák Jegyzet]]
 ## Hivatkozások
 - 

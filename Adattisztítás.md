@@ -5,7 +5,6 @@ tags:
   - fogalom
 status: WIP
 ---
-
 ### Feladatai
 - Hiányzó értékek kitöltése
 - Zajos adatok simítása

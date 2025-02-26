@@ -5,7 +5,7 @@ created:
   "{ date }": 
 tags:
   - note
-area: "[[Haladó Adattárház]]"
+area: "[[Haladó Adatbázis]]"
 ---
 # Loose Coupling
 ## Tartalom
