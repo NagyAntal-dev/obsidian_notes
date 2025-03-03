@@ -4,17 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "d00edb91384c5676",
+        "id": "39fc84e75d77cb02",
         "type": "tabs",
+        "dimension": 56.87772925764192,
         "children": [
           {
-            "id": "e4b3b5e90c916932",
+            "id": "e46f85a345d0bca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log Transzformáció.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log Transzformáció"
+            }
+          },
+          {
+            "id": "a6844b146b3117b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attribútum értékének skálázása.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attribútum értékének skálázása"
+            }
+          },
+          {
+            "id": "23c6f0a710113f96",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "583320e41a9e0c5e",
+        "type": "tabs",
+        "dimension": 43.122270742358076,
+        "children": [
+          {
+            "id": "17d08dfe4fc6c68b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Resources/UnsupervisedLearning/00_alapok.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "00_alapok"
             }
           }
         ]
@@ -172,9 +221,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4b3b5e90c916932",
+  "active": "23c6f0a710113f96",
   "lastOpenFiles": [
+    "Z-Score.md",
+    "Attribútum értékének skálázása.md",
+    "Log Transzformáció.md",
+    "Min-Max Skálázás.md",
+    "L-norma.md",
+    "Normalizáció Decimális Skálázással.md",
+    "Egyenlő szélességű partícionálás.md",
     "Adatelőkészítés.md",
+    "Adat Diszkretizáció.md",
+    "Vödrözés (Binning).md",
+    "Egyenlő mélységű partícionálás.md",
+    "03 - Resources/UnsupervisedLearning/00_alapok.pdf",
+    "02 - Areas/Nem felügyelt gépi tanulás.md",
     "Adatok átkódolása.md",
     "Adatintegráció.md",
     "Adatredukció.md",
@@ -182,29 +243,17 @@
     "Adattranszformáció.md",
     "Loose Coupling.md",
     "Jobs.md",
-    "Adatdiszkretizáció.md",
     "02 - Areas/Haladó Adattárház.md",
     "02 - Areas/Haladó Adatbázis.md",
     "().md",
     "03 - Resources/UnsupervisedLearning/DW_jegyzet_MSc_2024_1_rész.pdf",
-    "02 - Areas/Nem felügyelt gépi tanulás.md",
     "05 - Notes/Alapok.md",
     "05 - Notes/Adatok típusai.md",
     "05 - Notes/Kategorikus vagy kvalitatív.md",
     "05 - Notes/Ordinális.md",
-    "05 - Notes/Nominális.md",
-    "000 Index.md",
-    "05 - Notes/Numerikus vagy Kvantitatív.md",
     "05 - Notes",
-    "05 - Notes/Diszkrét.md",
-    "05 - Notes/Folytonos.md",
-    "Numerikus vagy Kvantitív.md",
-    "03 - Resources/UnsupervisedLearning/00_alapok.pdf",
     "03 - Resources/UnsupervisedLearning",
     "03 - Resources/Új mappa",
-    "Triggerek.md",
-    "Templates/Note Template.md",
-    "Templates/Project Template.md",
     "03 - Resources/HaladóAdatbázis/jegyzet_haladó_AB_Vassányi_István_2024.pdf",
     "03 - Resources/HaladóAdatbázis",
     "03 - Resources/Books",

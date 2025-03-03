@@ -15,10 +15,11 @@ area:
 - [[Adattisztítás]]
 - [[Adattranszformáció]]
 - [[Adatredukció]]
-- [[Adatdiszkretizáció]]
+- [[Adat Diszkretizáció]]
 
 ## Eszközök
 - [[Adatok átkódolása]]
+- [[Attribútum értékének skálázása]]
 
 ## Hivatkozások
 - 
